@@ -26,6 +26,8 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
+
+
         myButtonImport = (Button) findViewById(R.id.idButtonImport);
         myButtonExport = (Button) findViewById(R.id.idButtonExport);
 
